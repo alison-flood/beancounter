@@ -1,0 +1,3 @@
+BeanTracker.MainActivity;beantracker.MainActivity
+BeanTracker.TransactionActivity;beantracker.TransactionActivity
+BeanTracker.TransactionAdapter;beantracker.TransactionAdapter

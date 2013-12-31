@@ -1,0 +1,13 @@
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\bin\Debug\BeanTracker.dll
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\bin\Debug\BeanTracker.pdb
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\bin\Debug\BeanTracker.dll.mdb
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\bin\Debug\BeanTracker.BeanTracker.apk
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\bin\Debug\BeanTracker.BeanTracker-Signed.apk
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\obj\Debug\BeanTracker.dll
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\obj\Debug\BeanTracker.pdb
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\obj\Debug\android\bin\BeanTracker.BeanTracker.apk
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\obj\Debug\res\layout\main.xml
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\obj\Debug\res\values\strings.xml
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\obj\Debug\res\drawable\icon.png
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\obj\Debug\R.cs.flag
+C:\Users\iambeanie\Documents\Projects\BeanTracker\BeanTracker\obj\Debug\uploadflags.txt
